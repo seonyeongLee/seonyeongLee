@@ -2,7 +2,7 @@
   👋&nbsp; Hi there! I'm <b>backend developer</b> using Java and Spring. 🚀<br/>
   
   I enjoy walking, riding a blike and baking. 🚲 👩🏻‍🍳<br/>
-  I am trying to become a better developer. 📚 <br/><br/>
+  I am trying to become a better developer. 📚 <br/><br/> 
 </p>
 
 ### ⚒️ Skill 🔧
